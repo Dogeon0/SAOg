@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d27ff41c1004fb14bb5f30ab0f27ab05, type: 3}
+  m_Name: Berry
+  m_EditorClassIdentifier: 
+  itemName: Berries
+  icon: {fileID: 21300000, guid: 50a124ef62412044b90c6fe40093b12b, type: 3}
+  itemPrefab: {fileID: 4373482824204337707, guid: 85788c44cf6683644bfc8e0291b81ac0,
+    type: 3}
